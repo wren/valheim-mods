@@ -2,3 +2,5 @@
 !/.gitignore
 !/config/
 !/plugins/
+/plugins/BetterAutoRun.dll
+/config/stringerapps.BetterAutoRun.cfg
