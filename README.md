@@ -3,19 +3,19 @@ This is the official and most up-to-date source for our Valheim Server mods. All
 
 
 ### Mods Included:
-1. ValheimPlus
+1. ValheimPlus `v 0.9.13.0`
    - Status: _required_
    - Installed: Server and Client-side
-   - Official Link: [github](https://github.com/Grantapher/ValheimPlus)
+   - Official Link: [github](https://github.com/Grantapher/ValheimPlus/releases/tag/0.9.13.0)
    - Notes: The .cfg file has a lot of options!
 
-2. Plant Everything
+2. Plant Everything `v 1.18.1`
    - Status: _optional_
    - Installed: Server and Client-side
    - Official Link: [thunderstore.io](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/)
    - Notes: only required if you want to plant anything. Several of us use this so it may be useful, but you can technically join the server without it.
      
-3. Gamma of Night Lights
+3. Gamma of Night Lights `v 1.0.1`
    - Status: _optional_
    - Installed: Client-side only
    - Official Link: [thunderstore.io](https://thunderstore.io/c/valheim/p/shudnal/GammaOfNightLights/)
